@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<archive>
+	<material id="1" faculty="ФІТ" department="КІ" type="курсова">
+		<author>Іваненко Ольга</author>
+		<title>Проєкт з баз даних</title>
+		<size>3.5 MB</size>
+		<creationDate>2023-12-10</creationDate>
+	</material>
+
+	<material id="2" faculty="ФІТ" department="ПЗ" format="pdf">
+		<author>Петренко Андрій</author>
+		<title>Система обліку студентів</title>
+		<size>7.2 MB</size>
+		<creationDate>2024-02-01</creationDate>
+		<type>диплом</type>
+	</material>
+
+	<material id="3" faculty="ГФ" department="ІНО" type="дисертація">
+		<author>Коваль Марія</author>
+		<title>Методи викладання іноземних мов</title>
+		<size>12 MB</size>
+		<creationDate>2022-06-05</creationDate>
+	</material>
+
+	<material id="4" faculty="ФІТ" department="КІ" type="реферат" level="бакалавр">
+		<author>Сидоренко Павло</author>
+		<title>Основи алгоритмізації</title>
+		<size>1.8 MB</size>
+		<creationDate>2023-09-12</creationDate>
+	</material>
+</archive>
